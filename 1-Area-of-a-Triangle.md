@@ -13,3 +13,9 @@ triArea(10, 10) ➞ 50
 ## Notes
 - The area of a triangle is: (base * height) / 2
 - Don't forget to return the result.
+
+## Solution
+```
+const triArea = (base, height) => base * height / 2;
+
+```
